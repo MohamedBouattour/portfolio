@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "portfolio",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "portfolio-db",
+			"database_id": "65eeca6b-edf7-4c8f-aa3a-0615e564e914"
+		}
+	]
+}
